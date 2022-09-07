@@ -1,27 +1,27 @@
-## First Name Last Name
+## John Cogburn
 
-### Term Year 
+### 1st year, Freshmen 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Computation and Programming
 
-- Course 2
+- Analytic Geometry and Calculus 1
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Headphones
 
-- Thing 2
+- Video games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Juggling as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/07
